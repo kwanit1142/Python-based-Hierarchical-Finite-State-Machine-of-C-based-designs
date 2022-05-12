@@ -1,4 +1,4 @@
-## Hierarchal FSM
+## Python-based Hierarchical Finite State Machine of C-based designs
 
 We have coded a hierarchical FSM using python classes based on a c based design
 
